@@ -1,6 +1,6 @@
 # psychometry
 
-Predict and Classify the Personality with Regression ML algori
+Predict and Classify the Personality with Regression ML algorithms.
 Big5, Buying, Learning, IQ, Managing, Business, DataProc, Nature, Artistic, Helping...
 
 Implemented in Anaconda3(python 3X) with Tensorflow
